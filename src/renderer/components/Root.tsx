@@ -21,6 +21,8 @@ import './content-types/storage-peer'
 // other single-context components
 import './content-types/TextContent'
 import './content-types/ThreadContent'
+import './content-types/YoutubeContent'
+import './content-types/BrowserContent'
 import './content-types/UrlContent'
 import './content-types/files/ImageContent'
 import './content-types/files/AudioContent'
